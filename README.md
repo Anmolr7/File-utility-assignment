@@ -11,6 +11,6 @@ This is a file utility developed as a submission for Innovaccer HackerCamp 18
 ## How to use
 
 Command | Description
---- | ---
+--------- | ---
  `./futil sbe src dst` | Sorts all the files except shortcuts in src directory by extension and moves them in separate folders in dst directory
  `./futil biggest-files n dir` | Shows the Top n files in directory dir sorted in descending order with their sizes in MB
