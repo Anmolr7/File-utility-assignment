@@ -2,13 +2,13 @@
 
 This is a file utility developed as a submission for Innovaccer HackerCamp 18
 
-#Features
+##Features
 
 * Can sort all the files except shortcuts in a directory and move them to another directory in separate folders
 
 * Can recursively search for and show a specified number of top files in a directory with their sizes in MB
 
-#How to use
+##How to use
 
 Command | Description
 --- | ---
